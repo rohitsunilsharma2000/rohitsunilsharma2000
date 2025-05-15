@@ -42,7 +42,9 @@ He has delivered critical enterprise systems across e-commerce, healthcare, and 
 
 * Docker, Kubernetes, Helm
 * Jenkins, GitHub Actions
-* Prometheus, Grafana, ELK Stack
+* Jenkins, GitHub Actions, GitLab CI/CD
+* Prometheus, Grafana, ELK Stack, Fluentd, OpenTelemetry
+* Terraform (IaC), AWS (EKS, EC2, Lambda, S3), Azure
 
 ### 🔹 Tools & Others
 
